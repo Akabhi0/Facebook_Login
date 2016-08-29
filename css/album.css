@@ -1,0 +1,33 @@
+body{
+	padding:1%;
+	margin: auto  auto;
+}
+
+#im{
+padding:5px;
+margin: 2% 53.5%;
+}
+
+.btn{
+margin:4% 15%;	
+}
+
+.input-group-btn{
+	padding:10px;
+}
+
+#t{
+width:200px;
+}
+
+#i{
+width:200px;	
+}
+
+#btn{
+ margin: 1% 43.5%;	
+}
+
+#box{
+	width:70%;
+}

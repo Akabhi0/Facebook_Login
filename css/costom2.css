@@ -1,0 +1,129 @@
+.image{
+	background-repeat:no-repeat;
+	background-image:center;
+    background-attachment: fixed;
+	background-position: center ;
+	max-width: 100%;
+	font-family:arial ,sans-serif;
+	
+}
+
+.in{
+box-shadow:3px 3px 10px #000000;
+display:inline;
+height:100px;
+width:150px;
+margin-left:10px;
+
+}
+.side{
+
+margin:0 550px;
+
+}
+
+.woo{
+background:white;
+margin: -2px 611px;
+border-radius:20px;
+height: 88px;
+width: 206px;
+}
+
+#no1{
+margin:38px 0px;
+}
+
+#no{
+margin:40px 0px;
+}
+
+.woo1{
+background:white;
+margin: 5px 611px;
+border-radius:20px;
+height: 88px;
+width: 205px;
+}
+
+.rt{
+    background:#3f729b;
+	width:100%;
+	min-height:240px;
+	}
+	
+	
+	.rt h1{
+	   margin-top:-2px;
+	   margin: -2px 595px;
+	   color:white;
+	}
+	
+
+
+
+.box{
+margin: -43px 9px;
+}
+
+.zoo{
+ margin:  -45px 40px;
+}
+
+.pic{
+width:70px;
+height:70px;
+}
+
+
+.pic1{
+position:absolute;
+width:0px;
+-webkit-transition:width 0.3s linear 0s;
+transition:width 0.3s linear 0s;
+z-index:10;
+}
+
+.pic:hover + .pic1{
+
+width:300px;
+
+}
+
+
+#foot{
+    min-height:60px;
+    background:#f4f4f4;
+    padding:20px 0;
+    font-weight:bold;
+    text-align: center;
+	margin-top:10%;
+}
+
+
+.well{
+margin:20px 20px;
+padding:20px;
+float:left;
+background:#2AAAFF;
+}
+
+#nice h5{
+color:#FFFFFF;
+}
+
+#nice{
+background:#648ece;
+}
+
+
+#btn1{
+margin: -10px 60px;
+color:#2AAAFF;
+}
+
+#album{
+margin: 30px 0;
+padding:30px;
+
+}

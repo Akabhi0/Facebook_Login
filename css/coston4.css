@@ -1,0 +1,14 @@
+#rocket{
+box-shadow:3px 3px 10px #000000;
+height:100px;
+width:150px;
+margin-left:10px;
+}
+
+.span{
+padding:5px;
+display:inline;
+}
+.delete{
+	margin: auto 10%;
+}
